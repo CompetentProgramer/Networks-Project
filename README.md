@@ -1,6 +1,6 @@
 # Networks-Project# CNT3004 – Socket-Based Networked File Sharing Cloud Server
 
-Team: <Name 1>, <Name 2>, <Name 3>  
+Team: <Carson>, <Talen>, <Matthew>  
 Course section: <section>  
 Last updated: 2026-11-05
 
