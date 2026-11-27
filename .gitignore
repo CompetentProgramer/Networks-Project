@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# --- CNT3004 project: secrets and runtime files ---
+users.json
+server.key
+*.key
+*.pem
+server.crt
+test_data/
+server_storage/
+client_downloads/
+*.mp4
+*.mp3
+*.wav
+*.mp3
+*.wav
